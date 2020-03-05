@@ -7,5 +7,6 @@ const person = (props)=>{
         <p>{props.children}</p>
     </div>
     )
+    hello react
 }
 export default person;
